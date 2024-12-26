@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="upei.project.PlayerTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2024-12-09T01:14:02" hostname="PRIESTLY_LAPTOP" time="0.124">
+  <properties/>
+  <testcase name="testGetOutOfJailFreeCard()" classname="upei.project.PlayerTest" time="0.073"/>
+  <testcase name="testJailHandling()" classname="upei.project.PlayerTest" time="0.006"/>
+  <testcase name="testPlayerInitialization()" classname="upei.project.PlayerTest" time="0.006"/>
+  <testcase name="testMoneyManagement()" classname="upei.project.PlayerTest" time="0.003"/>
+  <testcase name="testMovementAndPassingGo()" classname="upei.project.PlayerTest" time="0.009"/>
+  <testcase name="testPropertyAcquisition()" classname="upei.project.PlayerTest" time="0.016"/>
+  <system-out><![CDATA[Starting money: $600
+Bail amount: $500
+Alice received a 'Get Out of Jail Free' card. Total cards: 1
+Alice used a 'Get Out of Jail Free' card. Remaining cards: 0
+Alice has no 'Get Out of Jail Free' cards to use.
+Starting money: $600
+Bail amount: $500
+Starting money: $600
+Bail amount: $500
+Starting money: $600
+Bail amount: $500
+Alice now has $150
+Alice now has $-50
+Alice is bankrupt! they have lost!
+Starting money: $600
+Bail amount: $500
+Alice is now at position 39 (Boardwalk)
+Alice got 200 dollars for passing go
+Alice now has $200
+Starting money: $600
+Bail amount: $500
+Alice acquired Boardwalk (Price: $400)
+Alice cannot acquire Boardwalk because it is already owned by Bob
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

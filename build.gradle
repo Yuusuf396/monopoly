@@ -1,0 +1,49 @@
+//plugins {
+//    id 'java'
+//    id 'application'
+//}
+//
+//application {
+//    mainClass = 'upei.project.Main'
+//}
+//
+//repositories {
+//    mavenCentral()
+//}
+//
+//dependencies {
+//    testImplementation 'org.junit.jupiter:junit-jupiter:5.10.0' // Check for the latest version
+//}
+//
+
+plugins {
+    id 'java'
+    id 'application'
+}
+
+application {
+    // Specify the main class for the application
+    mainClass = 'upei.project.Main'
+}
+
+repositories {
+    // Use Maven Central for dependency resolution
+    mavenCentral()
+}
+
+dependencies {
+    // JUnit 5 for unit testing
+    testImplementation 'org.junit.jupiter:junit-jupiter:5.10.0'
+}
+
+tasks.test {
+    // Ensure Gradle uses the JUnit 5 platform
+    useJUnitPlatform()
+}
+
+// Optional: Specify a default Java version for compatibility
+java {
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(17) // Change to your preferred version (e.g., 11, 17, 21)
+    }
+}
