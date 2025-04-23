@@ -1,0 +1,8993 @@
+[ {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 50,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 576,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 29,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 590,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 9,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 685,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 3",
+  "strategy" : "RANDOM",
+  "turns" : 13,
+  "players" : [ {
+    "name" : "Player 3",
+    "money" : 404,
+    "strategy" : "RANDOM"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 17,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 200,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 46,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 616,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 49,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 560,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 24,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 362,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 49,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 557,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 20,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 393,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 3",
+  "strategy" : "RANDOM",
+  "turns" : 20,
+  "players" : [ {
+    "name" : "Player 3",
+    "money" : 301,
+    "strategy" : "RANDOM"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 53,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 55,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 109,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 1090,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 51,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 318,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 72,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 707,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 32,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 452,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 10,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 200,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 51,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 120,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 22,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 145,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 72,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 841,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 58,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 484,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 45,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 834,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 62,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1072,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 3",
+  "strategy" : "RANDOM",
+  "turns" : 18,
+  "players" : [ {
+    "name" : "Player 3",
+    "money" : 188,
+    "strategy" : "RANDOM"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 24,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1265,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 51,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 895,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 72,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 246,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 45,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 560,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 44,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 835,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 51,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1076,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 21,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 510,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 89,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 1163,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 45,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 867,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 3",
+  "strategy" : "RANDOM",
+  "turns" : 69,
+  "players" : [ {
+    "name" : "Player 3",
+    "money" : 139,
+    "strategy" : "RANDOM"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 43,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 640,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 49,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 476,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 42,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 472,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 64,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 480,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 83,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 783,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 16,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 610,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 54,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1187,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 56,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 138,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 3",
+  "strategy" : "RANDOM",
+  "turns" : 6,
+  "players" : [ {
+    "name" : "Player 3",
+    "money" : 123,
+    "strategy" : "RANDOM"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 17,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1330,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 48,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 78,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 88,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 1473,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 23,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 102,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 30,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 511,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 50,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1055,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 64,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 459,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 34,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 550,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 102,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 497,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 33,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 659,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 59,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 600,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 29,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 873,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 3",
+  "strategy" : "RANDOM",
+  "turns" : 40,
+  "players" : [ {
+    "name" : "Player 3",
+    "money" : 675,
+    "strategy" : "RANDOM"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 58,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 482,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 35,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1142,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 67,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 693,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 74,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 286,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 117,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 1479,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 51,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1200,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 23,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 8,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 3",
+  "strategy" : "RANDOM",
+  "turns" : 60,
+  "players" : [ {
+    "name" : "Player 3",
+    "money" : 651,
+    "strategy" : "RANDOM"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 35,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 885,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 8,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 50,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 4,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 520,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 44,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1031,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 48,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 276,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 22,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1039,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 35,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 340,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 19,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 375,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 14,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 665,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 40,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 485,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 3",
+  "strategy" : "RANDOM",
+  "turns" : 56,
+  "players" : [ {
+    "name" : "Player 3",
+    "money" : 147,
+    "strategy" : "RANDOM"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 36,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 725,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 53,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 57,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 44,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 705,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 78,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 770,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 51,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 562,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 13,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1000,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 81,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 180,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 26,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 945,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 41,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 180,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 37,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 497,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 40,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 471,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 97,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 750,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 72,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 600,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 35,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 260,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 71,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 540,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 10,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 650,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 58,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 30,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 73,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 1025,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 29,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 820,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 49,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 518,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 78,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 719,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 27,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 765,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 132,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1310,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 38,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 845,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 10,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 860,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 22,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 368,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 35,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 569,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 43,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 978,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 44,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 935,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "No winner",
+  "strategy" : "It's A Draw",
+  "turns" : 44,
+  "players" : [ ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 16,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 575,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 33,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 848,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 91,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 1250,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 3",
+  "strategy" : "RANDOM",
+  "turns" : 15,
+  "players" : [ {
+    "name" : "Player 3",
+    "money" : 198,
+    "strategy" : "RANDOM"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 21,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 200,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 40,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 486,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 109,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 431,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 12,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 120,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 85,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 561,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 47,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 507,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 14,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 284,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 58,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 346,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 26,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 535,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 13,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 685,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 94,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1080,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 45,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 98,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 16,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 950,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 71,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 765,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 27,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 785,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 18,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 385,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 47,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 988,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 49,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 601,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 36,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 360,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 65,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 455,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 14,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 670,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 36,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 824,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 60,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 770,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 46,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 132,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 23,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 600,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 6,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 535,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 63,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 895,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 65,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 445,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 39,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 529,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 64,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1129,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 27,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 544,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 18,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 300,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 56,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 45,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 3",
+  "strategy" : "RANDOM",
+  "turns" : 29,
+  "players" : [ {
+    "name" : "Player 3",
+    "money" : 601,
+    "strategy" : "RANDOM"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 18,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 600,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 47,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 965,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 45,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 503,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 40,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 670,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 71,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 139,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 76,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 321,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 51,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 553,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 49,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 878,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 25,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1049,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 7,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 735,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 45,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 745,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 60,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 249,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 32,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 506,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 70,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 477,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 90,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 578,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 47,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 480,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 64,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 986,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 36,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 260,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 60,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 191,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 48,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 715,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 18,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 150,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 48,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1048,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 40,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 274,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 103,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 954,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 88,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 1114,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 49,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1051,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 3",
+  "strategy" : "RANDOM",
+  "turns" : 50,
+  "players" : [ {
+    "name" : "Player 3",
+    "money" : 881,
+    "strategy" : "RANDOM"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 18,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1050,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 32,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 314,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 35,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 640,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 49,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 518,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 74,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 765,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 39,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 340,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 71,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 513,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 64,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 180,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 32,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 662,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 3",
+  "strategy" : "RANDOM",
+  "turns" : 18,
+  "players" : [ {
+    "name" : "Player 3",
+    "money" : 237,
+    "strategy" : "RANDOM"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 73,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 715,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 44,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 827,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 61,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 735,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 71,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1570,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 75,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 530,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 29,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 360,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 69,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 80,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 58,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 904,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 43,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 410,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 61,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 406,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 35,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 669,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 28,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 461,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 61,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1320,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 15,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 300,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 65,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 555,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 47,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 847,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 26,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 542,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 101,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 573,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 72,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 699,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 75,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 4,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 34,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 420,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 19,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 520,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 60,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 445,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 52,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 200,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 42,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 430,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 21,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 558,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 80,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 791,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 10,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 985,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 19,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 600,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 99,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 965,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 53,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 450,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 63,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 521,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 97,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 980,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 54,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 636,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 103,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 420,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 86,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 1363,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 35,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 855,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 55,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 511,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 29,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 2,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 40,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 671,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 36,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 750,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 65,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 587,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 55,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 828,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 107,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 880,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 57,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 519,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 44,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 548,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 11,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 170,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 3",
+  "strategy" : "RANDOM",
+  "turns" : 71,
+  "players" : [ {
+    "name" : "Player 3",
+    "money" : 809,
+    "strategy" : "RANDOM"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 101,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 707,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 3",
+  "strategy" : "RANDOM",
+  "turns" : 96,
+  "players" : [ {
+    "name" : "Player 3",
+    "money" : 700,
+    "strategy" : "RANDOM"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 107,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 1089,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 21,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 550,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 23,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 200,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 43,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 61,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 11,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 345,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 3",
+  "strategy" : "RANDOM",
+  "turns" : 54,
+  "players" : [ {
+    "name" : "Player 3",
+    "money" : 25,
+    "strategy" : "RANDOM"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 17,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 835,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 67,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 1017,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 20,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 594,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 73,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 652,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 80,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 619,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 53,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 222,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 100,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 440,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 39,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 317,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 60,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 427,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 20,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 820,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 68,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 811,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 45,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 649,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 64,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 795,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 71,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 755,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 82,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 508,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 37,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 635,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 6,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 270,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 62,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 897,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 3",
+  "strategy" : "RANDOM",
+  "turns" : 31,
+  "players" : [ {
+    "name" : "Player 3",
+    "money" : 130,
+    "strategy" : "RANDOM"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 41,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 631,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 32,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 731,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 69,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 511,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 54,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 487,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 31,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 656,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 44,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 559,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 58,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 822,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 6,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 600,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 48,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1057,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 81,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 445,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 75,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 452,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 30,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 520,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 19,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 684,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 32,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 912,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 11,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 665,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 44,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1081,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 25,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 293,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 83,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1419,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 38,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 665,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 23,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1095,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 64,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 1000,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 50,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 970,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 21,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 150,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 23,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 665,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 57,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 960,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 29,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 600,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 38,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 119,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 54,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 830,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 85,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 617,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 28,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1030,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 26,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 396,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 102,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 290,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 49,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 515,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 3",
+  "strategy" : "RANDOM",
+  "turns" : 6,
+  "players" : [ {
+    "name" : "Player 3",
+    "money" : 200,
+    "strategy" : "RANDOM"
+  } ]
+}, {
+  "winner" : "Player 3",
+  "strategy" : "RANDOM",
+  "turns" : 10,
+  "players" : [ {
+    "name" : "Player 3",
+    "money" : 20,
+    "strategy" : "RANDOM"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 67,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 108,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 85,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 46,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 44,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 209,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 7,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 200,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 6,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 720,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 49,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 895,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 17,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 360,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 70,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 540,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 45,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1005,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 49,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 824,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 99,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 915,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 30,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 570,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 62,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 534,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 23,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 930,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 74,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 892,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 47,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 855,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 63,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 830,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 28,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 750,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 54,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 730,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 25,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 300,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 65,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 775,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 79,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 455,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 19,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 715,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 32,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 485,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 22,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 395,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 37,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 620,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 3",
+  "strategy" : "RANDOM",
+  "turns" : 43,
+  "players" : [ {
+    "name" : "Player 3",
+    "money" : 503,
+    "strategy" : "RANDOM"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 47,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 586,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 34,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 568,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 25,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1015,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 64,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 610,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 10,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 390,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 51,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1218,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 49,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 200,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 20,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 586,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 96,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 920,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 53,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 615,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 36,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 720,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 25,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 649,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 3",
+  "strategy" : "RANDOM",
+  "turns" : 18,
+  "players" : [ {
+    "name" : "Player 3",
+    "money" : 80,
+    "strategy" : "RANDOM"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 16,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 965,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 110,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 567,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 39,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 997,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 14,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 420,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 6,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 300,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 50,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 390,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 34,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 825,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 24,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 965,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 77,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 925,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 28,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1043,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 28,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1290,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 63,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 855,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 37,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 772,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 79,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 971,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 59,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 989,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 49,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 639,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 14,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 246,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 47,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 552,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 10,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 785,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 3",
+  "strategy" : "RANDOM",
+  "turns" : 22,
+  "players" : [ {
+    "name" : "Player 3",
+    "money" : 30,
+    "strategy" : "RANDOM"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 64,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 760,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 65,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 695,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 41,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 691,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 17,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 565,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 21,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 150,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 55,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 320,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 3",
+  "strategy" : "RANDOM",
+  "turns" : 33,
+  "players" : [ {
+    "name" : "Player 3",
+    "money" : 88,
+    "strategy" : "RANDOM"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 38,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 771,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 51,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 394,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 24,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 765,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 15,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 815,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 37,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 115,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 33,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 12,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 57,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 625,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 19,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 300,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 41,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 81,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 51,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 974,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 84,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 835,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 44,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 601,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 40,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 585,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 47,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 444,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 32,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 27,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 62,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 534,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 54,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 759,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 14,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1400,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 52,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 551,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 28,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 876,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 25,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 995,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 72,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 597,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 22,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 576,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 32,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 147,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 10,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 850,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 7,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 425,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 52,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 47,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 125,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 727,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 44,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 621,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 104,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 498,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 31,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 395,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 43,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 634,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 37,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 124,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 43,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 595,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 40,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 690,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 8,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 900,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 57,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 329,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 60,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 618,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 53,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 805,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 3",
+  "strategy" : "RANDOM",
+  "turns" : 24,
+  "players" : [ {
+    "name" : "Player 3",
+    "money" : 27,
+    "strategy" : "RANDOM"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 75,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 50,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 11,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 715,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 67,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 954,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 48,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 796,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 24,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 865,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 18,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 650,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 3",
+  "strategy" : "RANDOM",
+  "turns" : 32,
+  "players" : [ {
+    "name" : "Player 3",
+    "money" : 89,
+    "strategy" : "RANDOM"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 90,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 651,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 41,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 253,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 58,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 551,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 32,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1035,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 28,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 600,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 27,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 305,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 57,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 779,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 3",
+  "strategy" : "RANDOM",
+  "turns" : 20,
+  "players" : [ {
+    "name" : "Player 3",
+    "money" : 45,
+    "strategy" : "RANDOM"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 78,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 680,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 51,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 865,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 54,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 585,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 3",
+  "strategy" : "RANDOM",
+  "turns" : 19,
+  "players" : [ {
+    "name" : "Player 3",
+    "money" : 130,
+    "strategy" : "RANDOM"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 22,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 500,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 55,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 510,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 21,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 920,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 38,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1006,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 17,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 500,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 33,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 271,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 36,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 104,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 67,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 460,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 91,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 402,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 28,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 55,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 26,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 647,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 43,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 887,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 77,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1044,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 21,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 504,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 62,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 324,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 100,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 570,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 41,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 352,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 28,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 952,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 50,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1082,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 20,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 460,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 32,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1076,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 26,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 402,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 50,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 73,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 58,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 230,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 28,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 640,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 11,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 205,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 34,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 500,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 46,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 745,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 85,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 335,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 25,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 935,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 35,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 408,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 28,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 505,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 50,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 737,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 35,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 235,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 38,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 834,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 57,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 774,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 92,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 633,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 56,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 522,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 163,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 1103,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 31,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 953,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 59,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 920,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 21,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 965,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 38,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 778,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 12,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 665,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 162,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 1229,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 25,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 895,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 36,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 178,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 38,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 225,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 21,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 350,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 62,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 507,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 36,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 573,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 29,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 703,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 51,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 849,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 52,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 210,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 79,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 154,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 43,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 507,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 47,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 631,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 58,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 620,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 76,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 421,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 38,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 134,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 69,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 142,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 24,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 550,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 56,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 256,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 52,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 110,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 3",
+  "strategy" : "RANDOM",
+  "turns" : 13,
+  "players" : [ {
+    "name" : "Player 3",
+    "money" : 51,
+    "strategy" : "RANDOM"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 60,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 80,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 74,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 590,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 42,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 829,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 55,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 228,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 36,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 945,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 64,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 645,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 3",
+  "strategy" : "RANDOM",
+  "turns" : 29,
+  "players" : [ {
+    "name" : "Player 3",
+    "money" : 75,
+    "strategy" : "RANDOM"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 30,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 850,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 39,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 373,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 46,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 1025,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 35,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 653,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 66,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 79,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 50,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 835,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 132,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 290,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 47,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 365,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 59,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 65,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 24,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 665,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 53,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 560,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 44,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 450,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 54,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 740,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 113,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 1607,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 38,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 418,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 80,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 565,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 35,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 104,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 79,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 1152,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 82,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1066,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 68,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 627,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 58,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 262,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 59,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 163,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 25,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 745,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 3",
+  "strategy" : "RANDOM",
+  "turns" : 11,
+  "players" : [ {
+    "name" : "Player 3",
+    "money" : 170,
+    "strategy" : "RANDOM"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 151,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 1427,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 29,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 504,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 46,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 185,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 29,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 772,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 49,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 553,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 60,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 427,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 33,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 684,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 101,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1235,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 28,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 133,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 67,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 1048,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 25,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 611,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 24,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 991,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 76,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 813,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 57,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 942,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 24,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 615,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 8,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 400,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 52,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 612,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 33,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1015,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 89,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1780,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 64,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 569,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 45,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 690,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 28,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 45,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 23,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 60,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 22,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1282,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 32,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 898,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 53,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 636,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 29,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 665,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 24,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 450,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 3",
+  "strategy" : "RANDOM",
+  "turns" : 39,
+  "players" : [ {
+    "name" : "Player 3",
+    "money" : 77,
+    "strategy" : "RANDOM"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 10,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 630,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 59,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 320,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 70,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 848,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 52,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 580,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 25,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 720,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 27,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 334,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 44,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 550,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 83,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 915,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 16,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 700,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 23,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 703,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 50,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 815,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 27,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 565,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 37,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 675,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 17,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 620,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 53,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1088,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 60,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 497,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 27,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 11,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 61,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 85,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 41,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 785,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 75,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 516,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 16,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 934,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 3",
+  "strategy" : "RANDOM",
+  "turns" : 40,
+  "players" : [ {
+    "name" : "Player 3",
+    "money" : 232,
+    "strategy" : "RANDOM"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 62,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 539,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 40,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 910,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 32,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 635,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 106,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 180,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 33,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 280,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 48,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 300,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 13,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 655,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 3",
+  "strategy" : "RANDOM",
+  "turns" : 11,
+  "players" : [ {
+    "name" : "Player 3",
+    "money" : 190,
+    "strategy" : "RANDOM"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 27,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 667,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 58,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 641,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 49,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 435,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 12,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 150,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 96,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 451,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 23,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 305,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 38,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 635,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 53,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 220,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 41,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 649,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 38,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 720,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 64,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 567,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 14,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1450,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 36,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 606,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 55,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 428,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 16,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 130,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 15,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 850,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 52,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 523,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 38,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 913,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 38,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 385,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 37,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 916,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 65,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 495,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 6,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 365,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 28,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 757,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 28,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 930,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 6,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 300,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 50,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 642,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 32,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 925,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 33,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 620,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 63,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 485,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 10,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 685,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 48,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 607,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 60,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 377,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 34,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 315,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 27,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 735,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 123,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 1646,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 34,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 470,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 13,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 450,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 30,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 765,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 34,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1147,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 53,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 51,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 3",
+  "strategy" : "RANDOM",
+  "turns" : 53,
+  "players" : [ {
+    "name" : "Player 3",
+    "money" : 65,
+    "strategy" : "RANDOM"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 32,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 570,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 20,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 334,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 21,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 500,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 54,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 431,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 27,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 415,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 34,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 400,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 68,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 119,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 81,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 504,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 38,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 983,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 49,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 195,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 53,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 830,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 42,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1044,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 19,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 235,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 41,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1050,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 50,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 1061,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 16,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 565,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 23,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 354,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 91,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 596,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 17,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 541,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 19,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 985,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 3",
+  "strategy" : "RANDOM",
+  "turns" : 22,
+  "players" : [ {
+    "name" : "Player 3",
+    "money" : 35,
+    "strategy" : "RANDOM"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 53,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 614,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 54,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 360,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 34,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 130,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 3",
+  "strategy" : "RANDOM",
+  "turns" : 14,
+  "players" : [ {
+    "name" : "Player 3",
+    "money" : 372,
+    "strategy" : "RANDOM"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 44,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1145,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 19,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 965,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 101,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 555,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 64,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 750,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 50,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 881,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 53,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 303,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 33,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 654,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 90,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 294,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 31,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 895,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 35,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 889,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 57,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1127,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 75,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 1069,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 152,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 952,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 60,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 478,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 13,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 680,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 80,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 1005,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 98,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 825,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 95,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 1163,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 64,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 1030,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 67,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 623,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 21,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 324,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 59,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 240,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 25,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 220,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 48,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 236,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 37,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 335,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 16,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 115,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 29,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 77,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 29,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 609,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 50,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 810,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 55,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 490,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 43,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 850,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 3",
+  "strategy" : "RANDOM",
+  "turns" : 88,
+  "players" : [ {
+    "name" : "Player 3",
+    "money" : 302,
+    "strategy" : "RANDOM"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 30,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 107,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 46,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 516,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 72,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1100,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 54,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 875,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "No winner",
+  "strategy" : "It's A Draw",
+  "turns" : 62,
+  "players" : [ ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 88,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1304,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 35,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 45,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 82,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 621,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 51,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 565,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 50,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 135,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 53,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 919,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 42,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 294,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 31,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 810,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 29,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 956,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 48,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 55,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 34,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 820,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 85,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 1220,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 93,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 901,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 112,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 1347,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 56,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 744,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 73,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 715,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 43,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 493,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 67,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 866,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 56,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 639,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 29,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 25,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 69,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 545,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 121,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 577,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 53,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 200,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 43,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 944,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 42,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 955,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 115,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 561,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 24,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1100,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 3",
+  "strategy" : "RANDOM",
+  "turns" : 46,
+  "players" : [ {
+    "name" : "Player 3",
+    "money" : 459,
+    "strategy" : "RANDOM"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 96,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 1465,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 63,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 528,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 40,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 495,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 70,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 550,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 50,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 151,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 59,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 610,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 30,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1095,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 36,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 246,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 41,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 380,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 9,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 80,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 36,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1025,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 38,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 660,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 30,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 434,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 29,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 391,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 51,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 353,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 36,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 515,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 44,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 260,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 24,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 350,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 21,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 500,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 34,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 665,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 49,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 300,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 109,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 954,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 42,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 649,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 46,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 360,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 99,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 1185,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 33,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 425,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 86,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 279,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 59,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 869,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 8,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 285,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 21,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1100,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 25,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 734,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 140,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 715,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 18,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 189,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 23,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 400,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 42,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 988,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 26,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 972,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 39,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 618,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 16,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 550,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 9,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 300,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 67,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 88,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 36,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 509,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 38,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 725,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 40,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 100,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 38,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 860,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 31,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 322,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 14,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 485,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 47,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 170,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 5,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 800,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 42,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 722,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 25,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 696,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 16,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 555,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 85,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 439,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 17,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 889,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 51,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 285,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 24,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 910,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 71,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 227,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 21,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 472,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 25,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 36,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 37,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 560,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 44,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 352,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 53,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 514,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 36,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 587,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 76,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 436,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 69,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 351,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 28,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1237,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 7,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 985,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 66,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1004,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 54,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1100,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 58,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 647,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 31,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 700,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 37,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 930,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 22,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 545,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 77,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 607,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 29,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 880,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 86,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 905,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 37,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 749,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 88,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 1358,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 49,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 546,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 38,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 506,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 3",
+  "strategy" : "RANDOM",
+  "turns" : 42,
+  "players" : [ {
+    "name" : "Player 3",
+    "money" : 77,
+    "strategy" : "RANDOM"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 19,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 135,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 3",
+  "strategy" : "RANDOM",
+  "turns" : 12,
+  "players" : [ {
+    "name" : "Player 3",
+    "money" : 15,
+    "strategy" : "RANDOM"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 78,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1006,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 41,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 575,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 59,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 189,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 96,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 659,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 3",
+  "strategy" : "RANDOM",
+  "turns" : 41,
+  "players" : [ {
+    "name" : "Player 3",
+    "money" : 412,
+    "strategy" : "RANDOM"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 71,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 657,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 34,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1081,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 24,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 685,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 38,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 659,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 127,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 1710,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 78,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 570,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 62,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 956,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 77,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 39,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 16,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 575,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 36,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 619,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 36,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 573,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 14,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 250,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 19,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 950,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 52,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 161,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 14,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 750,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 138,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1297,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 44,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1078,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 71,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 275,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 41,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1151,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 29,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 102,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 45,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 170,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 46,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 188,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 52,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 859,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 13,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 65,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 50,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 784,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 44,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 500,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 55,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 459,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 36,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 615,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 24,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 615,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 60,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 523,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 47,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 165,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 49,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 517,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 106,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 531,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 3",
+  "strategy" : "RANDOM",
+  "turns" : 105,
+  "players" : [ {
+    "name" : "Player 3",
+    "money" : 396,
+    "strategy" : "RANDOM"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 43,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 317,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 128,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 1290,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 92,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 1395,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 3",
+  "strategy" : "RANDOM",
+  "turns" : 35,
+  "players" : [ {
+    "name" : "Player 3",
+    "money" : 297,
+    "strategy" : "RANDOM"
+  } ]
+}, {
+  "winner" : "Player 3",
+  "strategy" : "RANDOM",
+  "turns" : 29,
+  "players" : [ {
+    "name" : "Player 3",
+    "money" : 58,
+    "strategy" : "RANDOM"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 63,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 975,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 20,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 530,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 47,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 221,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 43,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 656,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 58,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 945,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 3",
+  "strategy" : "RANDOM",
+  "turns" : 33,
+  "players" : [ {
+    "name" : "Player 3",
+    "money" : 20,
+    "strategy" : "RANDOM"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 46,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 281,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 24,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 250,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 49,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 35,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 97,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 927,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 16,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1080,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 58,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 605,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 68,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 393,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 37,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 999,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 52,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 511,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 40,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 274,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 53,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 626,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 17,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 280,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 41,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 461,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 88,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 845,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 17,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 625,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 26,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 765,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 64,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 897,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 74,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 199,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 60,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 54,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 58,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 113,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 34,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 720,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 56,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 874,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 78,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 576,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 87,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 558,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 39,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 683,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 42,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 637,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 105,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1060,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 3",
+  "strategy" : "RANDOM",
+  "turns" : 22,
+  "players" : [ {
+    "name" : "Player 3",
+    "money" : 20,
+    "strategy" : "RANDOM"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 51,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 525,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 90,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1009,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 42,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 568,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 3",
+  "strategy" : "RANDOM",
+  "turns" : 33,
+  "players" : [ {
+    "name" : "Player 3",
+    "money" : 83,
+    "strategy" : "RANDOM"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 38,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 965,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 80,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 950,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 20,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1065,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 83,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 331,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 30,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1072,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 84,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 950,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 50,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 870,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 3",
+  "strategy" : "RANDOM",
+  "turns" : 57,
+  "players" : [ {
+    "name" : "Player 3",
+    "money" : 721,
+    "strategy" : "RANDOM"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 42,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 335,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 6,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 300,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 27,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 130,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 24,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 885,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 75,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 1095,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 3",
+  "strategy" : "RANDOM",
+  "turns" : 30,
+  "players" : [ {
+    "name" : "Player 3",
+    "money" : 25,
+    "strategy" : "RANDOM"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 77,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 596,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 12,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 165,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 65,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 515,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 32,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 465,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 43,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 590,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 13,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 892,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 35,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 525,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 39,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 831,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 34,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 498,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 74,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 390,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 81,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 807,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 29,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 10,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 34,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 979,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 25,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 55,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 39,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 51,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 33,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 884,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 42,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1056,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 40,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 40,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 20,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 440,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 69,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1094,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 57,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 999,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 3",
+  "strategy" : "RANDOM",
+  "turns" : 153,
+  "players" : [ {
+    "name" : "Player 3",
+    "money" : 185,
+    "strategy" : "RANDOM"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 61,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 535,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 39,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 565,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 39,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 503,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 42,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 212,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 24,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 900,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 61,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 124,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 21,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 612,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 73,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 740,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 40,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 754,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 76,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 62,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 78,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 639,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 50,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 944,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 36,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 625,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 92,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 873,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 25,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 300,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 71,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 550,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 17,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 203,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 57,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 941,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 47,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 751,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 42,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 634,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 36,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 915,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 66,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 722,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 35,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 520,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 65,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 330,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 29,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 704,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 13,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 535,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 26,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 806,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 30,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 735,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 147,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 399,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 63,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 109,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 3",
+  "strategy" : "RANDOM",
+  "turns" : 48,
+  "players" : [ {
+    "name" : "Player 3",
+    "money" : 71,
+    "strategy" : "RANDOM"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 44,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 766,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 60,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 549,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 73,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 750,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 47,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 539,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 47,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 622,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 43,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 835,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 58,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 967,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 41,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 65,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 28,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 786,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 64,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 486,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 3",
+  "strategy" : "RANDOM",
+  "turns" : 35,
+  "players" : [ {
+    "name" : "Player 3",
+    "money" : 167,
+    "strategy" : "RANDOM"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 55,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 570,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 17,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 665,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 139,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1258,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 125,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 787,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 62,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 29,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 39,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 590,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 45,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 207,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 9,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 40,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 40,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 840,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 34,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 196,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 45,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 265,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 25,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 935,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 45,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 461,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 50,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 243,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 85,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 595,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 44,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 830,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 46,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 752,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 3",
+  "strategy" : "RANDOM",
+  "turns" : 45,
+  "players" : [ {
+    "name" : "Player 3",
+    "money" : 109,
+    "strategy" : "RANDOM"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 43,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1016,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 34,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 541,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 17,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 778,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 46,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 435,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 15,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 615,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 52,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 460,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 18,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 50,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 3",
+  "strategy" : "RANDOM",
+  "turns" : 29,
+  "players" : [ {
+    "name" : "Player 3",
+    "money" : 788,
+    "strategy" : "RANDOM"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 14,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 915,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 21,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1135,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 29,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1050,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 130,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 1612,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 85,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 769,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 64,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 225,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 62,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 375,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 56,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 361,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 101,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 583,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 3",
+  "strategy" : "RANDOM",
+  "turns" : 35,
+  "players" : [ {
+    "name" : "Player 3",
+    "money" : 141,
+    "strategy" : "RANDOM"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 64,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 949,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 67,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 119,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 29,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 810,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 48,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 118,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 68,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 597,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 6,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 1000,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 32,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 304,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 7,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 300,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 77,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 374,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 77,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 560,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 20,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 230,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 7,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 985,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 25,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 512,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 44,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 551,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 28,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 780,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 18,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 860,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 1",
+  "strategy" : "AGGRESSIVE",
+  "turns" : 68,
+  "players" : [ {
+    "name" : "Player 1",
+    "money" : 1175,
+    "strategy" : "AGGRESSIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 40,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 606,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 18,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 484,
+    "strategy" : "CONSERVATIVE"
+  } ]
+}, {
+  "winner" : "Player 2",
+  "strategy" : "CONSERVATIVE",
+  "turns" : 41,
+  "players" : [ {
+    "name" : "Player 2",
+    "money" : 250,
+    "strategy" : "CONSERVATIVE"
+  } ]
+} ]
