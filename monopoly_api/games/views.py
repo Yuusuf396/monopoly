@@ -23,8 +23,19 @@ class GameResultWinnerDetailView(generics.ListAPIView):
         return GameResult.objects.filter(winner=winner_name)
     
     
-class GameResultByStrategyView(generics.ListAPIView):
-    serializer_class=GameResultSerializer
+# class GameResultByStrategyView(generics.ListAPIView):
+#     serializer_class=GameResultSerializer
     
+#     def get_queryset(self):
+#         return GameResult.objects.filter(strategy=self.kwargs['strategy'])
+
+class GameResultByStrategyView(generics.ListAPIView):
+    serializer_class = GameResultSerializer
+
     def get_queryset(self):
-        return GameResult.objects.filter(strategy=self.kwargs['strategy'])
+        queryset = GameResult.objects.all()
+        strategy = self.kwargs['strategy']  # ✅ path param (matches /gameresults/<strategy>/)
+
+        if strategy:
+            queryset = queryset.filter(strategy=strategy)
+        return queryset
