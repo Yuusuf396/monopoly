@@ -18,3 +18,12 @@ class GameResultSerializer(serializers.ModelSerializer):
         return f"{self.winner} ({self.strategy}) - {self.turns} turns"
 
     
+    def create(self, validated_data):
+        players_data = validated_data.pop('players')  # extract players
+        game_result = GameResult.objects.create(**validated_data)  # create game result
+        
+        # create PlayerData and link them
+        for player_data in players_data:
+            PlayerData.objects.create(game=game_result, **player_data)
+        
+        return game_result
