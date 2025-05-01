@@ -56,7 +56,7 @@ npm run dev
 ---
 
 ### Summary Insight
-[comment]![Success Chart](monopoly_strategy_success.png)
+<!--![Success Chart](monopoly_strategy_success.png)-->
 
 ---
 
