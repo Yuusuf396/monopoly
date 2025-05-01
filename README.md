@@ -47,3 +47,29 @@ cd monopoly-strategy-simulator
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
+# Navigate to backend folder (if needed)
+cd monopoly_backend
+
+# Create and activate virtual environment
+python3 -m venv venv
+source venv/bin/activate
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Load data into database
+python load_results.py
+
+# Start Django server
+python manage.py runserver
+
+
+# Navigate to frontend folder
+cd frontend
+
+# Install React dependencies
+npm install
+
+# Start development server
+npm run dev
+
