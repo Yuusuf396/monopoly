@@ -1,10 +1,13 @@
 import { useEffect, useState ,} from 'react';
-import { getGameByStrategy, getGames } from '../api/api';
+import { getGameByStrategy, getGames,getStrategy } from '../api/api';
 import { Link, useNavigate} from 'react-router-dom';
 import Strategy from './Strategy';
 import Card from '../components/Card';
 
 import '../styles/home.css'
+import OverallStrategyPieChart from '../components/OveralStrategyPieChart';
+import OverallStrategyLineChart from '../components/OveralStrategyLineChart';
+import StrategyAreaChart from '../components/StrategyAreaChart';
  
 
 export default function HomePage() {
@@ -14,6 +17,8 @@ export default function HomePage() {
     const navigate = useNavigate();
     const [selectedStrategy, setSelectedStrategy] = useState('');
     const [games, setGames] = useState([]);
+    
+    const [strategywins, setStrategyWins] = useState([]);
     const [loading, setLoading] = useState(null);
     const [currentPage, setCurrentPage] = useState(1);
     const [next, setNext] = useState(null);
@@ -38,74 +43,47 @@ export default function HomePage() {
             
             setLoading(false);
         }
-    };
+  };
+  
+
+  const fetchStrategyWins=async()=> {
+    setLoading(true);
+    try {
+      const res = await getStrategy();
+      setStrategyWins(res.data);
+      console.log(res.data[0]);
+
+    }
+    catch (e) {
+      console.error(e);
+    }
+    finally {
+      setLoading(false);
+    }
+  }
 
     useEffect(() => {
-        fetchGames(selectedStrategy);
+      fetchGames(selectedStrategy);
+      fetchStrategyWins();
     }, [currentPage,selectedStrategy]);
 
     
-  // return (
-  //   <Card className="p-4">
-  //       <h1 className="text-2xl font-bold mb-4">Simulated Games</h1>
-  //       <label className="block mb-2 text-sm font-medium text-gray-700">
-  //         Filter by Strategy:
-  //       </label>
-  //       <div className="flex flex-wrap gap-2 mb-6">
-  //       {strategies.map((strategy) => (
-  //         <button
-  //           key={strategy || 'ALL'}
-  //               onClick={() => {
-  //                   setSelectedStrategy(strategy)
-  //                   setCurrentPage(1);
-  //               } }
-  //           className={`px-4 py-2 rounded-full border text-sm font-medium ${
-  //             selectedStrategy === strategy
-  //               ? 'bg-blue-500 text-white border-blue-500'
-  //               : 'bg-gray-100 text-gray-700 border-gray-300'
-  //           }`}
-  //         >
-  //           {strategy === '' ? 'All' : strategy}
-  //         </button>
-  //       ))}
-  //     </div>
-  //   {/* <Link to={games} className='text-2xl font-bold mb' >TO ID</Link> */}
-  //      <div className="space-y-2">
-  //      {loading ? (
-  //       <p className="animate-pulse text-gray-500">Loading ......</p>
-  //     ) : (
-  //       games.map(game => (
-             
-          
-  //           <li key={game.id} className="border p-3 rounded bg-white shadow-sm">
-  //               <Link to={`games/${game.id}`} className='text-2xl font-bold mb' >TO ID</Link>
-  //               <strong>{ game.id}:={game.winner}</strong> won in {game.turns} turns using <em>{game.strategy}</em>.
-  //         </li>
-  //       )))}
-        
-  //       <div className="flex gap-4">
-  //       <button
-  //         onClick={() => setCurrentPage(p => p - 1)}
-  //         disabled={!prev}
-  //         className="bg-gray-200 px-4 py-1 rounded disabled:opacity-50"
-  //       >
-  //         Previous
-  //       </button>
-  //       <button
-  //         onClick={() => setCurrentPage(p => p + 1)}
-  //         disabled={!next}
-  //         className="bg-blue-500 text-white px-4 py-1 rounded disabled:opacity-50"
-  //       >
-  //         Next
-  //       </button>
-  //     </div>
-  //     </div>
-  //   </Card>
-  // );
-
+  
   return (
     <div className="page-wrapper">
+
       <div className="main-card">
+          <div className="chart-row">
+              <div className="mini-chart-box">
+                 <OverallStrategyPieChart strategies={strategywins} /> 
+              </div>
+              <div className="mini-chart-box">
+                <OverallStrategyLineChart strategies={strategywins} />
+          </div>
+          {/* <div className="mini-chart-box"><StrategyAreaChart strategies={strategywins} /></div> */}
+          </div>
+        
+
         <h1 className="title">Simulated Games</h1>
 
         <label className="filter-label">Filter by Strategy</label>
@@ -143,8 +121,11 @@ export default function HomePage() {
             ))
           )}
         </div>
-
+        {/* {strategywins.map((strategy) => (<p key={strategy.strategy}>{strategy.strategy}:{ strategy.wins}</p> ))} */}
+      
+        
         <div className="pagination">
+       
           <button onClick={() => setCurrentPage((p) => p - 1)} disabled={!prev}>
             Previous
           </button>

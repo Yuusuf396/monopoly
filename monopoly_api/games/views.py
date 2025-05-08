@@ -1,7 +1,7 @@
 from rest_framework import generics
 from .models import GameResult
-from .serializers import GameResultSerializer
-
+from .serializers import GameResultSerializer,StrategyWinCountSerializer
+from django.db.models import Count
 class GameResultListView(generics.ListAPIView):
     queryset=GameResult.objects.all()
     serializer_class=GameResultSerializer
@@ -39,3 +39,17 @@ class GameResultByStrategyView(generics.ListAPIView):
         if strategy:
             queryset = queryset.filter(strategy=strategy)
         return queryset
+
+class StrategyWinCountView(generics.ListAPIView):
+    
+    serializer_class = StrategyWinCountSerializer
+    pagination_class = None 
+
+    def get_queryset(self):
+        # This returns a list of dicts like [{'strategy': 'AGGRESSIVE', 'wins': 120}, ...]
+        return (
+            GameResult.objects
+            .values('strategy')
+            .annotate(wins=Count('id'))
+            .order_by('-wins')
+        )

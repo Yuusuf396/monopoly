@@ -9,6 +9,7 @@ class PlayerDataSerializer(serializers.ModelSerializer):
         return f"{self.name} (${self.money}) - {self.strategy}"
 
 
+
 class GameResultSerializer(serializers.ModelSerializer):
     # players=PlayerDataSerializer(many=True,read_only=True)
     players=PlayerDataSerializer(many=True)
@@ -28,3 +29,8 @@ class GameResultSerializer(serializers.ModelSerializer):
             PlayerData.objects.create(game=game_result, **player_data)
         
         return game_result
+
+
+class StrategyWinCountSerializer(serializers.Serializer):
+    strategy = serializers.CharField()
+    wins = serializers.IntegerField()

@@ -6,6 +6,7 @@ import '../styles/GameDetail.css';
 import { Link, useParams } from 'react-router-dom';
 import { useEffect, useState } from 'react';
 import { getGameById } from '../api/api';
+import PlayerMoneyChart from '../components/PlayerMoneyChart';
 
 export default function GameDetail() {
   const { id } = useParams();
@@ -47,6 +48,7 @@ export default function GameDetail() {
               </li>
             ))}
           </ul>
+          <PlayerMoneyChart players={game.players}/>
         </div>
 
         <Link to="/" className="back-link">← Back to all games</Link>

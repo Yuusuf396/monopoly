@@ -16,6 +16,7 @@ export const getGameById = (id) => API.get(`gameresultdetail/${id}/`);
     
 // };
 
+export const getStrategy =()=>API.get(`gameresultlistbystrategy/`)
 export const getGameByStrategy = (page = 1, strategy = '') => {
   const url = `/gameresults/${strategy}/?page=${page}`;
   return API.get(url);
