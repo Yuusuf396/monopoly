@@ -10,7 +10,8 @@ class PlayerDataSerializer(serializers.ModelSerializer):
 
 
 class GameResultSerializer(serializers.ModelSerializer):
-    players=PlayerDataSerializer(many=True,read_only=True)
+    # players=PlayerDataSerializer(many=True,read_only=True)
+    players=PlayerDataSerializer(many=True)
     class Meta:
         model=GameResult
         fields = ['id', 'winner', 'strategy', 'turns', 'players']  # defines what shows in the API

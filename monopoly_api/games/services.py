@@ -1,5 +1,4 @@
-# myapp/services.py
-
+ 
 import os
 import subprocess
 import json
