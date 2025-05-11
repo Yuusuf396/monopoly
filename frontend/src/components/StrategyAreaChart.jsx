@@ -11,18 +11,25 @@ import {
   
   export default function StrategyAreaChart({ strategies }) {
     if (!strategies || strategies.length === 0) return null;
+    console.log(strategies);
   
-    // Step 1: Convert list to one object with keys as strategy names
+    //  const chartData = [
+    //   strategies.reduce(
+    //     (acc, item) => ({ ...acc, [item.strategy]: item.wins }),
+    //     { name: 'Strategies' }
+    //   ),
+    // ];
     const chartData = [
-      strategies.reduce(
-        (acc, item) => ({ ...acc, [item.strategy]: item.wins }),
-        { name: 'Strategies' }
-      ),
+      { name: 'Game 1', AGGRESSIVE: 10, RANDOM: 5, CONSERVATIVE: 2 },
+      { name: 'Game 2', AGGRESSIVE: 7, RANDOM: 8, CONSERVATIVE: 3 },
+      { name: 'Game 3', AGGRESSIVE: 6, RANDOM: 4, CONSERVATIVE: 9 },
+      { name: 'Game 4', AGGRESSIVE: 12, RANDOM: 6, CONSERVATIVE: 7 },
     ];
-  
+    
+    
     return (
       <div className="area-chart-box">
-        <h3>📊 Strategy Wins (Stacked Area)</h3>
+        {/* <h3>📊 Strategy Wins (Stacked Area)</h3> */}
         <ResponsiveContainer width="100%" height={250}>
           <AreaChart
             data={chartData}

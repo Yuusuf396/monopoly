@@ -2,6 +2,10 @@ import os
 import django
 import json
 
+
+from django.db import connection
+ 
+
 # Setup Django environment
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'monopoly_api.settings')
 django.setup()
@@ -15,6 +19,15 @@ with open('new_all_results.json', 'r') as f:
 # Optional: clear old data before loading new (optional, but useful)
 GameResult.objects.all().delete()
 PlayerData.objects.all().delete()
+
+
+GameResult.objects.all().delete()
+PlayerData.objects.all().delete()
+
+# Reset primary key sequence (SQLite)
+with connection.cursor() as cursor:
+    cursor.execute("DELETE FROM sqlite_sequence WHERE name='games_gameresult';")
+    cursor.execute("DELETE FROM sqlite_sequence WHERE name='games_playerdata';")
 
 # Load into DB
 for entry in data:

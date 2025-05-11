@@ -55,6 +55,26 @@ html, body {
   letter-spacing: 0.05em;
 }
 
+.simulate{
+  align-self: center;
+}
+.simulate button{
+  cursor: pointer;
+  font-size: 2rem;
+  padding: 1rem;
+  border: none;
+  border-radius: 0.3rem;
+  color: #e0e0e0;
+  background-color: #3b82f6;
+}
+.simulate button:hover{
+    transform: translateY(-1px);
+    color: #3b82f6;
+    scale: 1.02;
+    background-color: #e0e0e0;
+    transition: ease-in .2s;
+
+}
 /* ===== Strategy Buttons ===== */
 .strategy-buttons {
   display: flex;
@@ -215,6 +235,7 @@ html, body {
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
   text-align: center;
   height: 300px;
+  overflow: hidden;
 }
 
 .mini-chart-box h3 {

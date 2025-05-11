@@ -13,19 +13,19 @@ import {
     }));
   
     return (
-      // <div className="chart-section">
+       
       <div>
-        <h3>win</h3>
+        {/* <h3>win</h3> */}
         <ResponsiveContainer width="100%" height={300}>
           <PieChart>
             <Pie
               data={data}
               cx="50%"
               cy="50%"
-              outerRadius={100}
+              outerRadius={80}
               fill="#8884d8"
               dataKey="value"
-              label
+              label 
             >
               {data.map((_, index) => (
                 <Cell key={`cell-${index}`} fill={COLORS[index % COLORS.length]} />

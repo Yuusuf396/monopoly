@@ -8,6 +8,7 @@ import '../styles/home.css'
 import OverallStrategyPieChart from '../components/OveralStrategyPieChart';
 import OverallStrategyLineChart from '../components/OveralStrategyLineChart';
 import StrategyAreaChart from '../components/StrategyAreaChart';
+import StrategyBarChart from '../components/StrategyBarChart';
  
 
 export default function HomePage() {
@@ -31,10 +32,13 @@ export default function HomePage() {
         try {
             const res = strategy
                 // console.log(res.data);
-                ? await getGameByStrategy(currentPage, strategy) : await getGames(currentPage);
+            ? await getGameByStrategy(currentPage, strategy) : await getGames(currentPage);
+          
             setGames(res.data.results || res.data)
             setNext(res.data.next);
-            setPrev(res.data.previous);
+          setPrev(res.data.previous);
+          // console.log(games);
+          // console.log(selectedStrategy);
 
         } catch (e) {
             console.error(e);
@@ -78,12 +82,20 @@ export default function HomePage() {
                  <OverallStrategyPieChart strategies={strategywins} /> 
               </div>
               <div className="mini-chart-box">
+                <StrategyBarChart strategies={strategywins} />
+              </div>
+
+              {/* <div className="mini-chart-box">
                 <OverallStrategyLineChart strategies={strategywins} />
-          </div>
+          </div> */}
           {/* <div className="mini-chart-box"><StrategyAreaChart strategies={strategywins} /></div> */}
-          </div>
+        </div>
+        <div className='simulate'>
+          <button>Simulate New Data</button>
+        </div>
         
 
+        
         <h1 className="title">Simulated Games</h1>
 
         <label className="filter-label">Filter by Strategy</label>
