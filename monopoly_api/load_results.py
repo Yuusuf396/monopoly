@@ -16,7 +16,6 @@ from games.models import GameResult, PlayerData
 with open('new_all_results.json', 'r') as f:
     data = json.load(f)
 
-# Optional: clear old data before loading new (optional, but useful)
 GameResult.objects.all().delete()
 PlayerData.objects.all().delete()
 

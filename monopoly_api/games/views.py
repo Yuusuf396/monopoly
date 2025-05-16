@@ -1,4 +1,11 @@
 from rest_framework import generics
+from rest_framework.views import APIView
+from .services import run_and_save_simulation
+
+from rest_framework.response import Response
+from rest_framework import status
+
+
 from .models import GameResult
 from .serializers import GameResultSerializer,StrategyWinCountSerializer
 from django.db.models import Count
@@ -53,3 +60,11 @@ class StrategyWinCountView(generics.ListAPIView):
             .annotate(wins=Count('id'))
             .order_by('-wins')
         )
+        
+class SimulateGameAPIView(APIView):
+    def post(self, request):
+        try:
+            run_and_save_simulation()  # ✅ Just run and save one new game
+            return Response({"message": "New simulation created."}, status=status.HTTP_201_CREATED)
+        except Exception as e:
+            return Response({"error": str(e)}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)

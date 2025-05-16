@@ -1,5 +1,5 @@
 import { useEffect, useState ,} from 'react';
-import { getGameByStrategy, getGames,getStrategy } from '../api/api';
+import { getGameByStrategy, getGames,getStrategy,simulateGame } from '../api/api';
 import { Link, useNavigate} from 'react-router-dom';
 import Strategy from './Strategy';
 import Card from '../components/Card';
@@ -66,6 +66,17 @@ export default function HomePage() {
     }
   }
 
+  const simulateNew = async () => {
+    try  {
+      const response = await simulateGame();
+      
+      console.log('Created post:', response.data);
+    } catch (error) {
+      console.error('Failed to create post:', error);
+    }
+  
+  }
+
     useEffect(() => {
       fetchGames(selectedStrategy);
       fetchStrategyWins();
@@ -90,7 +101,7 @@ export default function HomePage() {
           </div> */}
           {/* <div className="mini-chart-box"><StrategyAreaChart strategies={strategywins} /></div> */}
         </div>
-        <div className='simulate'>
+        <div className='simulate' onClick={simulateNew}>
           <button>Simulate New Data</button>
         </div>
         
