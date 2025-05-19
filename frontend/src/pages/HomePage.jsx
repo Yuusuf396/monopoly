@@ -55,7 +55,7 @@ export default function HomePage() {
     try {
       const res = await getStrategy();
       setStrategyWins(res.data);
-      console.log(res.data[0]);
+      // console.log(res.data[0]);
 
     }
     catch (e) {
